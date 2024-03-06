@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/HIS.iml" filepath="$PROJECT_DIR$/.idea/HIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIS-master/HIS-api/HIS-api.iml" filepath="$PROJECT_DIR$/HIS-master/HIS-api/HIS-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-bms-service/HIS-bms-service.iml" filepath="$PROJECT_DIR$/HIS-master/HIS-service/HIS-bms-service/HIS-bms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIS-master/HIS-common/HIS-common.iml" filepath="$PROJECT_DIR$/HIS-master/HIS-common/HIS-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIS-master/HIS-demo/HIS-demo.iml" filepath="$PROJECT_DIR$/HIS-master/HIS-demo/HIS-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-dms-service/HIS-dms-service.iml" filepath="$PROJECT_DIR$/HIS-master/HIS-service/HIS-dms-service/HIS-dms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIS-master/HIS-master.iml" filepath="$PROJECT_DIR$/HIS-master/HIS-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIS-master/HIS-mbg/HIS-mbg.iml" filepath="$PROJECT_DIR$/HIS-master/HIS-mbg/HIS-mbg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-pms-service/HIS-pms-service.iml" filepath="$PROJECT_DIR$/HIS-master/HIS-service/HIS-pms-service/HIS-pms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-service.iml" filepath="$PROJECT_DIR$/HIS-master/HIS-service/HIS-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-sms-service/HIS-sms-service.iml" filepath="$PROJECT_DIR$/HIS-master/HIS-service/HIS-sms-service/HIS-sms-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-api-app/his-cloud-api-app.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-api-app/his-cloud-api-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-api-pc/his-cloud-api-pc.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-api-pc/his-cloud-api-pc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-config/his-cloud-config.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-config/his-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-dependencies/his-cloud-dependencies.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-dependencies/his-cloud-dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-eureka/his-cloud-eureka.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-eureka/his-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-monitor/his-cloud-monitor.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-monitor/his-cloud-monitor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-service-bms/his-cloud-service-bms.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-service-bms/his-cloud-service-bms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-service-dms/his-cloud-service-dms.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-service-dms/his-cloud-service-dms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-service-pms/his-cloud-service-pms.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-service-pms/his-cloud-service-pms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-service-sms/his-cloud-service-sms.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-service-sms/his-cloud-service-sms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-zipkin/his-cloud-zipkin.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-zipkin/his-cloud-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/his-cloud/his-cloud-zuul/his-cloud-zuul.iml" filepath="$PROJECT_DIR$/his-cloud/his-cloud-zuul/his-cloud-zuul.iml" />
+    </modules>
+  </component>
+</project>

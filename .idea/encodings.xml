@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-api/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-demo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-demo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-mbg/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-mbg/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-bms-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-bms-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-dms-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-dms-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-pms-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-pms-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-sms-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-service/HIS-sms-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/HIS-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HIS-master/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-api-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-api-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-api-pc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-api-pc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-config/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-dependencies/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-dependencies/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-eureka/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-monitor/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-monitor/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-service-bms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-service-bms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-service-dms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-service-dms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-service-pms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-service-pms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-service-sms/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-service-sms/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-zipkin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-zipkin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/his-cloud/his-cloud-zuul/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
