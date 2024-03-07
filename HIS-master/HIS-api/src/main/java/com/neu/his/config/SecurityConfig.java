@@ -104,7 +104,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         return username -> {
             SmsStaff staff = smsStaffService.selectByUserName(username);//保证了User存在且状态不为0
             if (staff != null) {
-                List<SmsPermission> permissionList = smsRoleService.getPermissionList(staff.getId());
+                List<SmsPermission> permissionList = smsRoleService.getPermissionList(staff.getRoleId());
                 return new StaffDetails(staff,permissionList);
             }
             throw new UsernameNotFoundException("用户名或密码错误");

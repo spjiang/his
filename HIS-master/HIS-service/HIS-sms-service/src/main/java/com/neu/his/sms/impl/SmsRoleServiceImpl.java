@@ -3,6 +3,7 @@ package com.neu.his.sms.impl;
 import com.github.pagehelper.PageHelper;
 import com.neu.his.common.dto.sms.SmsRoleParam;
 import com.neu.his.mbg.dao.SmsRolePermissionDao;
+import com.neu.his.mbg.mapper.SmsPermissionMapper;
 import com.neu.his.mbg.mapper.SmsRoleMapper;
 import com.neu.his.mbg.mapper.SmsRolePermissionRelationMapper;
 import com.neu.his.mbg.model.*;
@@ -24,6 +25,9 @@ public class SmsRoleServiceImpl implements SmsRoleService {
 
     @Autowired
     private SmsRoleMapper roleMapper;
+
+    @Autowired
+    private SmsPermissionMapper permissionMapper;
 
     @Autowired
     private SmsRolePermissionDao rolePermissionDao;
@@ -99,8 +103,7 @@ public class SmsRoleServiceImpl implements SmsRoleService {
 
     @Override
     public List<SmsPermission> getPermissionList(Long roleId) {
-
-      return rolePermissionDao.getPermissionList(roleId);
+        return permissionMapper.getPermissionList(roleId);
     }
 
     @Override

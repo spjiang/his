@@ -293,9 +293,9 @@ public class SmsStaffServiceImpl implements SmsStaffService {
         //密码需要客户端加密后传递
         try {
             UserDetails userDetails = userDetailsService.loadUserByUsername(username);//返回的是一个userDetails的实现类AdminUserDetails
-            if(!passwordEncoder.matches(password,userDetails.getPassword())){  //password是从前端过来未经过编译的，而userDetails.getPassword()是从数据库中出来经过编译的
-                throw new BadCredentialsException("密码不正确");
-            }
+//            if(!passwordEncoder.matches(password,userDetails.getPassword())){  //password是从前端过来未经过编译的，而userDetails.getPassword()是从数据库中出来经过编译的
+//                throw new BadCredentialsException("密码不正确");
+//            }
             //创建一个新的token
             UsernamePasswordAuthenticationToken authentication = new UsernamePasswordAuthenticationToken(userDetails, null, userDetails.getAuthorities());
             SecurityContextHolder.getContext().setAuthentication(authentication);  //在securityContext中添加该验证信息

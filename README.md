@@ -9,8 +9,17 @@ HIS 英文全称 Hospital Information System（医院信息系统），主要功
 登录用户：演示用户
 
 登录密码：test
-       
 
+源代码：
+https://gitee.com/nianxiassss/HIS#%E4%B8%89-%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA
+
+IP 映射
+https://github.com/fatedier/frp/releases?page=2
+
+前端代码正常运行：
+https://github.com/TANGKUO/HIS
+
+Java 1.8
 
 ## 前言
 

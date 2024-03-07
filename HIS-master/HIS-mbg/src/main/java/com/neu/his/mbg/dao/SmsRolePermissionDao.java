@@ -3,6 +3,7 @@ package com.neu.his.mbg.dao;
 
 //import com.neu.his.mbg.model.SmsPermission;
 //import com.neu.his.mbg.model.SmsRolePermissionRelation;
+import com.neu.his.mbg.mapper.SmsPermissionMapper;
 import com.neu.his.mbg.model.SmsPermission;
 import com.neu.his.mbg.model.SmsRolePermissionRelation;
 import org.apache.ibatis.annotations.Mapper;

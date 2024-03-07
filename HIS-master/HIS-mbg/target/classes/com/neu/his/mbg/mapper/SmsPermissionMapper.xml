@@ -270,4 +270,13 @@
       type = #{type,jdbcType=INTEGER}
     where id = #{id,jdbcType=BIGINT}
   </update>
+  <select id="getPermissionList" parameterType="java.lang.Long" resultMap="BaseResultMap">
+    SELECT
+      p.*
+    FROM
+      sms_role_permission_relation r
+        LEFT JOIN sms_permission p ON r.permission_id = p.id
+    WHERE
+      r.role_id = #{roleId};
+  </select>
 </mapper>

@@ -27,4 +27,6 @@ public interface SmsPermissionMapper {
     int updateByPrimaryKeySelective(SmsPermission record);
 
     int updateByPrimaryKey(SmsPermission record);
+
+    List<SmsPermission> getPermissionList(@Param("roleId") Long roleId);
 }
