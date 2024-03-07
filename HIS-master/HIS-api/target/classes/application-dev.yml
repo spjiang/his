@@ -8,15 +8,13 @@ spring:
     cache: false #页面不加载缓存，修改即时生效
   data:
     elasticsearch:
-#      repositories:
-#        enabled: true
-#      cluster-nodes: 10.156.196.229:9200
-#      username: your-elasticsearch-username
-#      password: your-elasticsearch-password
-      rest:
-        uris: http://10.156.196.229:9200
-        username: admin
-        password: changeme
+      repositories:
+        enabled: true
+      cluster-name: docker-cluster
+      cluster-nodes: 10.156.196.229:9300
+  elasticsearch:
+    rest:
+      uris: http://10.156.196.229:9200
 
 
   jackson:

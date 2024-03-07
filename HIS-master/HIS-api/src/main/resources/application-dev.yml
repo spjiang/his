@@ -10,7 +10,11 @@ spring:
     elasticsearch:
       repositories:
         enabled: true
-      cluster-nodes: 10.156.196.229:9200
+      cluster-name: docker-cluster
+      cluster-nodes: 10.156.196.229:9300
+  elasticsearch:
+    rest:
+      uris: http://10.156.196.229:9200
 
 
   jackson:
